@@ -5,6 +5,9 @@
   <img src="Images/uno.png" width="500">
 </p>
 
+<img align="center" src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=electronicarts&logoColor=white">
+
+
 # Features
 - **ESP32 WROOM 32 N4** for Wi-Fi and IoT connectivity
 - Dual MCU communication via **UART**
