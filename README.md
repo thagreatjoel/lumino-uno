@@ -4,3 +4,11 @@
 <p align="center">
   <img src="Images/uno.png" width="500">
 </p>
+
+# Features
+- **ESP32 WROOM 32 N4** for Wi-Fi and IoT connectivity
+- Dual MCU communication via **UART**
+- **ATmega128AU** for real-time hardware control
+- Toggle Switch to convert the mode for the Flash
+- Built-in startup and feedback sound system
+- Type-C connectivity
