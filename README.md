@@ -35,6 +35,20 @@
 | Power consumption       | ⚠️ Higher      | ✅ Low         | ⚠️ Higher        |
 | Best use case           | IoT, Web apps | Control systems | Full systems     |
 
+# How to Flash
+Dont just over confuse it. its compilicated but not hard. its just a esp and atmega.. 
+**FLASH TO ATMEGA**
+- Flash Switch to left
+- Upload code through USB C
+
+You AVR is now coded, dont unplug it yet
+
+**FLASH TO ESP**
+- Flash Switch to right
+- Upload code
+- Press boot buttom while uploading
+
+Your board is now complet
 
 # Schematics
 <img align="center" width="70%" alt="Schematic" src="https://github.com/user-attachments/assets/357adc15-a4e3-4114-9fdc-47ed1b1ec9c5" />
