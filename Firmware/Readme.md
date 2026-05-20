@@ -7,11 +7,14 @@ Upload the sketchs by this method
 
 - Select board Arduino Uno
 - Flash Switch to left
-- Upload code through USB C You AVR is now coded, dont unplug it yet
+- Upload code through USB C
+
+Now Your AVR is now coded, dont unplug it yet
 
 **FLASH TO ESP**
 
 - Select Board ESP32 Dev Module
 - Flash Switch to right
 - Upload code
-Press boot buttom while uploading Your board is now complet
+Press boot buttom while uploading.
+Your board is now complete and its ready to use
