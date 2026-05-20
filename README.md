@@ -21,7 +21,7 @@
 
 # Comparison Table
 
-| Feature                 | ESP32          | ATmega         | Lumino Uno       |
+| Feature                 | ESP32          | Arduino Uno        | Lumino Uno       |
 |-------------------------|----------------|----------------|------------------|
 | Internet        | ✅ Yes         | ❌ No          | ✅ Yes           |
 | Bluetooth               | ✅ Yes         | ❌ No          | ✅ Yes           |
