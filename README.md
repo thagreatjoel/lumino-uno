@@ -51,7 +51,7 @@ You AVR is now coded, dont unplug it yet
 - Upload code
 - Press boot buttom while uploading
 Your board is now complet
-## #D model (camt uploade due to above 25mb)
+## 3D model (can't uploade due to above 25mb)
 [3D Model](https://cdn.hackclub.com/019e3a1e-7bf6-7cc7-b24b-c62ca8a7e5d8/3d%20model.step)
 
 ## Zine page 
