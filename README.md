@@ -54,6 +54,9 @@ Your board is now complet
 ## #D model (camt uploade due to above 25mb)
 [3D Model](https://cdn.hackclub.com/019e3a1e-7bf6-7cc7-b24b-c62ca8a7e5d8/3d%20model.step)
 
-## zine page 
-<img width="1369" height="2099" alt="zine (1)_page-0001" src="https://github.com/user-attachments/assets/b651986b-b212-4b9c-91c4-cdc9ebc55547" />
+## Zine page 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b651986b-b212-4b9c-91c4-cdc9ebc55547" width="500">
+</p>
+
 
