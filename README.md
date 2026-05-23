@@ -1,7 +1,7 @@
 <h1 align="center">LUMINO UNO</h1>
 
 
-<p align="center" >A Dual Cored Micro-controller which can flash two different firmware in one board.</p>
+<p align="center" >An Open Source Dual Cored Micro-controller which can flash two different firmware in one board.</p>
 
 <p align="center">
   <img src="Images/PCB.png" width="500">
