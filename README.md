@@ -6,7 +6,8 @@
 <p align="center">
   <img src="Images/PCB.png" width="500">
 </p>
-# Why did i made this project
+<h1 align="left"> Why did i made this project</h1>
+
 Nothing special, i was just making somthing with esp32 and arduino uno, i got frutuated by just swaping both boards, so i thoough to make someting that can include esp and arduino in one
 # Features
 - **ESP32 WROOM 32 N4** for Wi-Fi and IoT connectivity
